@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On starting a blog"
-date:   2016-01-29 05:04:11
+date:   2016-01-28 23:30:00
 ---
 
 So I finally decided to start a blog. Been thinking about it for a while, but never actually got around to it. Finally got some motivation after starting to read [Soft Skills](https://www.manning.com/books/soft-skills). Still not sure what I'll focus on, but figured I should at least get something up.
