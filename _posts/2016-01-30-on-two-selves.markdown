@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "On two selves AKA why I hate myself"
+date:   2016-01-30 12:55:00
+---
+
+A few months ago, one of my coworkers recommended [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow). The book made me understand my own biases in how I think. It made me realize that I don't understand statistics, which is something I want to remedy. (I took some statistics courses back in high school and college, got good grades, but never fully grokked the material.) There were plenty of other insights in the book, but one of the more interesting ones for me was the struggle between the "experiencing self" and the "remembering self".
+
+The book mostly talked about how differently pain/pleasure are felt during the moment vs how they are remembered in the future. The two selves have different value systems, that are occasionally in conflict. This is something I've struggled with. Sometimes the experiencing self of one time is in conflict with the experiencing self of another time. The choices I make today affect me of tomorrow. (As I write that, I realize it's an obvious statement and wonder why I write it.)
+
+There are plenty of nights where I stay up late, watching Netflix and playing games, sometimes going to bed at midnight. I wake up at 6:30 for work, and it's often a struggle. Morning me curses night me and vows to go to bed at an earlier hour that night. Sometimes it works, but more often than not, evening me has forgotten all about morning me. Part of that may be that not getting enough sleep is hurting my mental faculties, so that I don't realize how badly I'm doing. I may be mentally regressing and getting dumber by the day, but no one wants to tell me "you're being dumber than usual". Or maybe the dumbness has become the usual at this point, so the difference isn't noticeable.
+
+Despite reading many studies that say it doesn't work, I try to catch up on sleep on weekends. I also go to bed even later. (I think it was 1:00 last night.) Usually, I wake up at 10 or 11 on weekends. By the time I fully wake up, a good portion of the day is already gone. I remember fondly some days where I had an errand to run early in the morning. Night me would go to bed at a reasonable hour, morning me would wake up nice and early, run the errand, and then realize there was still a full day ahead to get stuff done. Those were the most productive days.
+
+Even during the day, I'm fighting with myself. I use [Todoist](todoist.com) to organize tasks I need to get done. When I first started with it, it was awesome. I got through the list, checked some stuff off, and could relax. At some point, I skipped doing a task or two. The backlog built up. Seeing the large list of tasks that needed doing was demotivating. I would still do the small ones, but completely skip the large ones. If I delayed doing them one day already, what's another day? The rational me says I should just do it and get it out the way. The lazy/procrastinator me wants to delay. Let's watch a movie instead! Or write a blog post about how I can't get anything done...
+
+Part of me wanted to end the blog post on that. The reader would think "He realized he isn't doing anything productive. He's finishing up the blog post and will actually go do stuff!" I hope that will be the case, but I'm pessimistic. We'll see how the rest of the day goes.
