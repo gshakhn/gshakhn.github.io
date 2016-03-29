@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On journaling AKA remembering things"
+title:  "On journaling AKA creating opportunities"
 date:   2016-03-28 08:15:00
 ---
 
