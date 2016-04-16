@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "On two selves AKA why I hate myself"
 date:   2016-01-30 12:55:00
 ---
