@@ -27,7 +27,7 @@ There are plenty of blogging solutions out there. I chose to use Jekyll hosted o
 
 # Getting Jekyll setup
 
-The [Jekyll](http://jekyllrb.com/) site has some documentation for getting Jekyll installed and running. However, the installation requires installing a gem. I haven't setup rvm or rebind yet on my machine, and I didn't want to install the gem globally. Been using docker recently for stuff and having fun. A combination of the [Jekyll docker documentation](https://github.com/jekyll/docker/blob/master/README.md) and [another blog post](http://salizzar.net/2014/11/06/creating-a-github-jekyll-blog-using-docker/) led to the following commands (using [fish](http://fishshell.com/), so you may have to adapt slightly for bash).
+The [Jekyll](http://jekyllrb.com/) site has some documentation for getting Jekyll installed and running. However, the installation requires installing a gem. I haven't setup rvm or rbenv yet on my machine, and I didn't want to install the gem globally. Been using docker recently for stuff and having fun. A combination of the [Jekyll docker documentation](https://github.com/jekyll/docker/blob/master/README.md) and [another blog post](http://salizzar.net/2014/11/06/creating-a-github-jekyll-blog-using-docker/) led to the following commands (using [fish](http://fishshell.com/), so you may have to adapt slightly for bash).
 
     mkdir gshakhn.github.io
     cd gshakhn.github.io
