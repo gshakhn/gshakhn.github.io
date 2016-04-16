@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On running ScalaJS tests in a browser AKA hacking sbt until it does what I want (I think)"
-date:   2016-04-15 10:20:00
+date:   2016-04-16 10:20:00
 ---
 
 TLDR: I'm running ScalaJS tests in Firefox/Chrome due to a PhantomJS [bug](https://github.com/scala-js/scala-js/issues/1555). The relevant code is in [these](https://github.com/gshakhn/private-wiki/commit/7a23f660d3eefb1d32013cbb5d32f2bcb8c89abe) [three](https://github.com/gshakhn/private-wiki/commit/06c5b8499f975f2aabe2e27f562241dab06503d5) [commits](https://github.com/gshakhn/private-wiki/commit/a309deb289c67af6d14b9790b95199e8c0cbdc59).
