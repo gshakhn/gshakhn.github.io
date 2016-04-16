@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "On starting a blog AKA why am I doing this?"
 date:   2016-01-28 23:30:00
 ---
