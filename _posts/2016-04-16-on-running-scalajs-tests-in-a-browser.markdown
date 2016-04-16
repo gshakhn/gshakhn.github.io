@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "On running ScalaJS tests in a browser AKA hacking sbt until it does what I want (I think)"
 date:   2016-04-16 10:20:00
 ---
