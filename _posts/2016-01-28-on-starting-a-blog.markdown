@@ -1,7 +1,10 @@
 ---
 title:  "On starting a blog AKA why am I doing this?"
 date:   2016-01-28 23:30:00
+excerpt: "So I finally decided to start a blog."
 ---
+
+*2016-04-16 Edit: I've update the blog's look. See the [new post]({% post_url 2016-04-16-on-a-new-blog-look %}) for details.*
 
 So I finally decided to start a blog. Been thinking about it for a while, but never actually got around to it. Finally got some motivation after starting to read [Soft Skills](https://www.manning.com/books/soft-skills). Still not sure what I'll focus on, but figured I should at least get something up.
 
