@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "On HackerRank AKA and now for something completely different"
 date:   2016-02-07 16:40:00
 ---
