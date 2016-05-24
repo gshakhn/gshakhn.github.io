@@ -17,7 +17,7 @@ In an ideal world, I would have a single version of the browser running in Docke
 
 ## Prereqs
 
-You need to have XQuartz and Xephyr installed. I'm pretty sure I used brew to do so at some point in the past, but not positive.
+You need to have XQuartz and Xephyr installed. `brew cask install xquartz` should install both.
 
 You also need a Dockerfile that has the X11 app you want to run. The following example runs Firefox, but your needs will probably vary.
 
