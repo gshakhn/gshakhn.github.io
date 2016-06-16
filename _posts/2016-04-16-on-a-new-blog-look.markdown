@@ -27,9 +27,7 @@ Switching over to use the new style took a bit of effort. The steps I took were:
 
 1. **Docker**. I had some trouble using the docker command for Jekyll from the [first]({% post_url 2016-01-28-on-starting-a-blog %}) post. After some frustration, I realized that the minimal-mistakes is using a Gemfile The Jekyll docker image had its own set of gems. I had to change the docker command to:
 
-```
-docker run --rm --label=jekyll --volume=(pwd):/srv/jekyll -it -p 192.168.99.100:4000:4000 -e POLLING=true jekyll/jekyll:pages bundle exec jekyll serve
-```
+        docker run --rm --label=jekyll --volume=(pwd):/srv/jekyll -it -p 192.168.99.100:4000:4000 -e POLLING=true jekyll/jekyll:pages bundle exec jekyll serve
 
 2. **The layouts were different**. The old Jekyll blog used the `post` layout, while minimal-mistakes uses `single`. Needed to update the posts to use the new layout. The minimal-mistakes docs mentioned using [Front Matter defaults](https://jekyllrb.com/docs/configuration/#front-matter-defaults), so I just got rid of the `layout` setting in every post and specified it in the defaults.
 
