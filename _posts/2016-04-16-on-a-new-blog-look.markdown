@@ -7,7 +7,7 @@ After posting about [ScalaJS and browser testing]({% post_url 2016-04-16-on-runn
 
 After doing some googling, Disqus seemed like a reasonable option. The [criticisms on Wikipedia](https://en.wikipedia.org/wiki/Disqus#Criticism_and_privacy_concerns) are a bit scary from a privacy point of view, but it definitely was the easiest option. Of course, I'm going to be tied to vendor this way. Vendor lock-in is so easy when the user isn't interested in putting more work into an alternative.  We'll see if that bytes me eventually.
 
-While googling about Jekyll + GitHub Pages + Comments, I stumbled upon [minimal-mistakes](https://mmistakes.github.io/minimal-mistakes/), which is a Jekyll template with built in Disqus commenting. I could spend a few minutes following the [official Disqus instructions](https://help.disqus.com/customer/portal/articles/472138-jekyll-installation-instructions), or I could spend an hour changing the blog's look. Guess what I picked.
+While googling about Jekyll + GitHub Pages + Comments, I stumbled upon [minimal-mistakes](https://mmistakes.github.io/minimal-mistakes/), which is a Jekyll template with built in Disqus commenting. I could spend a few minutes following the [official Disqus instructions](https://help.disqus.com/customer/portal/articles/472138-jekyll-installation-instructions) to add comments to the existing blog, or I could spend an hour changing the blog's look. Guess what I picked.
 
 Switching over to use the new style took a bit of effort. The steps I took were:
 
