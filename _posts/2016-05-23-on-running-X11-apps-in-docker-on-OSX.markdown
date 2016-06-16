@@ -39,7 +39,7 @@ You can build the above image by running `docker build -t docker-firefox .` whil
 
 # Sources
 
-This [blog post](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/) and this [GitHub issues](https://github.com/docker/docker/issues/8710) gave me a bunch of background.
+This [blog post](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/) and this [GitHub issue](https://github.com/docker/docker/issues/8710) gave me a bunch of background.
 
 # Caveats
 
