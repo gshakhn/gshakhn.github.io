@@ -1,0 +1,10 @@
+pages:
+  stage: deploy
+  image: jekyll/jekyll:pages
+  script:
+    - bundle exec jekyll build -d public/
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
