@@ -16,7 +16,7 @@ Switching over to use the new style took a bit of effort. The steps I took were:
 3. Create a new branch based on minimal-mistakes's `master`.
 4. Make sure I can run the blog locally. See below for some problems I hit.
 5. Modify the config with my info.
-6. Get rid of the default navigation links in `_data/navigation.yml`. They were pointing to  minimal-mistaks's docs.
+6. Get rid of the default navigation links in `_data/navigation.yml`. They were pointing to  minimal-mistakes's docs.
 7. [`git cherry-pick`](http://stackoverflow.com/questions/1670970/how-to-cherry-pick-multiple-commits) all of the post commits from the old blog.
 8. Go through some migration problems. See below.
 9. Delete the old `master` branch.
