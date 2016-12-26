@@ -21,7 +21,7 @@ The way it works internally is there is one JVM hosting the wiki, allowing you t
 
 For us, the first thing the second JVM does is "start up" the application with an embedded HSQLDB. Among other things, this involves parsing the Hibernate configuration and creating the appropriate tables. Unfortunately, this takes ~15 seconds. That makes running tests extremely slow and annoying. I'm always tempted to get some fake swords to pass the time.
 
-One of my coworkers sped this up a ton by reusing the same DB + Hibernate configuration between tests, so subsequent tests take ~2 seconds. This means that when you're running a suite (multiple tests), the first test will take ~15 seconds, but the rest will take ~2 seconds each. That's awesome for a CI environment, but it help much in a local environment. When you run a test, edit it, and run it again, you're paying that ~15 second cost each time you run the test.
+One of my coworkers sped this up a ton by reusing the same DB + Hibernate configuration between tests, so subsequent tests take ~2 seconds. This means that when you're running a suite (multiple tests), the first test will take ~15 seconds, but the rest will take ~2 seconds each. That's awesome for a CI environment, but it doesn't help much in a local environment. When you run a test, edit it, and run it again, you're paying that ~15 second cost each time you run the test.
 
 # Solution
 
