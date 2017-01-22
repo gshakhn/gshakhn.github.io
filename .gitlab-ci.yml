@@ -2,7 +2,7 @@ pages:
   stage: deploy
   image: ruby:2.3
   script:
-    - wget http://gshakhn.gitlab.io/resume/resume.pdf
+    - wget https://gshakhn.gitlab.io/resume/resume.pdf
     - bundle install
     - bundle exec jekyll build -d public/
   artifacts:
