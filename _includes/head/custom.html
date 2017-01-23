@@ -3,9 +3,15 @@
 <!-- insert favicons. use http://realfavicongenerator.net/ -->
 
 <script>
-var host = "www.gshakhn.com";
-if ((host == window.location.host) && (window.location.protocol != 'https:')) {
+if (("www.gshakhn.com" == window.location.host) && (window.location.protocol != 'https:')) {
   window.location = window.location.toString().replace(/^http:/, "https:");
+}
+if ("gshakhn.com" == window.location.host) {
+  if (window.location.protocol === "https:") {
+    window.location = window.location.toString().replace("https://gshakhn.com", "https://www.gshakhn.com");
+  } else {
+    window.location = window.location.toString().replace("http://gshakhn.com", "https://www.gshakhn.com");
+  }
 }
 </script>
 
