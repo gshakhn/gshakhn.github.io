@@ -17,3 +17,5 @@ Time to rebuild with more secure settings. I deleted the droplet in DigitalOcean
     curl -L https://raw.githubusercontent.com/kylemanna/docker-openvpn/master/init/docker-openvpn%40.service > docker-openvpn@.service
     mv docker-openvpn@.service /etc/systemd/system/
     systemctl enable --now docker-openvpn@.service
+    
+Comparing the above with [the original instructions](https://www.digitalocean.com/community/tutorials/how-to-run-openvpn-in-a-docker-container-on-ubuntu-14-04) I used to setup the server in 2015, the primary differences are the encryption functions and using systemd to manage the OpenVPN daemon.
